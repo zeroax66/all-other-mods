@@ -1,6 +1,6 @@
 # all-other-mods
 
-These are all the mods I have made so far, aside from Psychopath Hunt Remastered.
+These are all the mods I have made so far, aside from Main Horror Remake: Psychopath Hunt Remastered.
 
 ## Granny Mods
 
